@@ -1,0 +1,26 @@
+name: PyMIP
+channels:
+  - conda-forge
+dependencies:
+  - python = 3.8
+  # Examples (remove and add as needed)
+  - jupyter
+  - jupyterlab
+  - numpy
+  - cartopy
+  - pip
+  - ipykernel
+  - matplotlib
+  - scipy
+  - xarray
+  - pandas
+  - xesmf
+  - esgf-pyclient
+  - netcdf4
+
+
+
+
+
+
+
